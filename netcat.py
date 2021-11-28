@@ -5,7 +5,7 @@ import textwrap
 import sys
 import socket
 import threading
-from types import CellType
+
 
 
 def execute(cmd):
